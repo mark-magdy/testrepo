@@ -7,6 +7,8 @@ class guigit : public QMainWindow
 {
     Q_OBJECT
 
+
+
 public:
     guigit(QWidget *parent = nullptr);
     ~guigit();

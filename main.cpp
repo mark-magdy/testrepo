@@ -8,4 +8,5 @@ int main(int argc, char *argv[])
     w.resize(500, 500); 
     w.show();
     return a.exec();
+
 }
